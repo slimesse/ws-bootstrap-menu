@@ -1,0 +1,21 @@
+
+.all {
+    display: flex !important;
+    justify-content:space-around !important;
+    
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    margin: 2%;
+    
+  }
+  #bt{background-color: rgb(178, 86, 95); color: aliceblue; text-align: center; padding: auto; margin: auto;}
+  
+  #bt1{background-color: rgb(178, 86, 95); color: aliceblue; }
+  
+  #bt2{background-color: rgb(178, 86, 95); color: aliceblue; }
+
+  .bouton{padding: 35%; margin-top: 1cap;}
+  #bt-grill{margin-top: 4cap;}
+  
+
